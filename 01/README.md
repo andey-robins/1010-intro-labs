@@ -76,6 +76,8 @@ Our first program will be a program that outputs a greeting of "hello world" to 
 
 ## Write The Program
 
+<!-- These images and instructions are for the CODIO interface. YMMV -->
+
 1. In the filetree on the left hand side of your screen, click on the "root" of the directory. For this project, the root is titled "Hello World (master)" and has a lock icon to the left of it.
 
 ![The filetree](.guides/img/filetree.png)
@@ -102,6 +104,7 @@ You've now written your first program. Click the next button below and learn how
 
 Click this button to see the output of your program.
 
+<!-- buttons are provided through CODIO, YMMV -->
 {Run My Code}(python3 main.py)
 
 Return to the `main.py` file and try outputting different text. Can you display multiple pieces of text? Can you change the text you wrote? Once you've played around with writing different code and re-running your code with the button above, return to this guide to learn how we run your code. Take a screenshot of your code after adding an additional print line.
