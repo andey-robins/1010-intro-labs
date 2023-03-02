@@ -21,7 +21,7 @@
 
 A collection of lab materials used in Intro to Computer Science (COSC 1010) at the University of Wyoming for the 22-23 academic school year. Two-hundred and eighteen students were present in the sections of the course throughout the academic year. From student feedback, these labs were a major contributor to their development of skills throughout the semester.
 
-These labs are designed to accomodate the textbook [Think Python 2nd Edition](https://greenteapress.com/wp/think-python-2e/). Some slight modifications to presentation order were implemented in the course and reflected in the lab assignments.
+These labs are designed to accomodate the textbook [Think Python 2nd Edition](https://greenteapress.com/wp/think-python-2e/). Some slight modifications to presentation order were implemented in the course and reflected in the lab assignments. Some markdown syntax are extensions provided by the interface made use of (codio). Depending on your markdown viewer, they may not render properly.
 
 ## Assignments
 
