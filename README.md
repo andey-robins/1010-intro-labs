@@ -33,7 +33,11 @@ A simple hello world lab, this introduces students to running code using python 
 
 ### Lab 2
 
+This lab tasks students with creating some of the calculation logic for a checkout counter application.
+
 ### Lab 3
+
+This lab asks students to count the number of steps needed to show that an integer satisfies the collatz conjecture.
 
 ### Lab 4
 
