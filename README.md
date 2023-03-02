@@ -45,6 +45,8 @@ This lab asks students to implement the logic for determining the winner of a ga
 
 ### Lab 5
 
+This lab asks students to write an application which translates simple sentences from English to the conlang _toki pona_.
+
 ### Lab 6
 
 ### Lab 7
