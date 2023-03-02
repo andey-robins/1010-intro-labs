@@ -41,6 +41,8 @@ This lab asks students to count the number of steps needed to show that an integ
 
 ### Lab 4
 
+This lab asks students to implement the logic for determining the winner of a game of rock-paper-scissors and finishing the CLI logic to play the game.
+
 ### Lab 5
 
 ### Lab 6
