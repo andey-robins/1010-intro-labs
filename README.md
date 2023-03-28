@@ -49,13 +49,23 @@ This lab asks students to write an application which translates simple sentences
 
 ### Lab 6
 
+This lab asks students to write code which is able to perform simple analysis over input data.
+
 ### Lab 7
+
+This lab asks students to identify the most common words in movie scripts.
 
 ### Lab 8
 
+This lab extends lab 7 by asking for more analysis over the frequency analysis of movie word scripts.
+
 ### Lab 9
 
+This lab extends lab 8 by having students visualize their findings from the previous labs with pyplot.
+
 ### Lab 10
+
+This lab asks students to debug a somewhat complicated piece of software for playing the game yacht dice.
 
 ## Usage Advice
 
