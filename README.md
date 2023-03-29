@@ -69,6 +69,12 @@ This lab asks students to debug a somewhat complicated piece of software for pla
 
 ## Usage Advice
 
+Through teaching this to eight lab sections over two semesters, a number of pieces of advice for teaching these labs has been gleaned empirically. Many of these pieces of advice are presented in the hopes they can prevent similar short-fallings for anyone undertaking these labs.
+
+- Students respond very well to being given unofficial "sub goals" which print specific pieces of information. Saying that steps along the process for analyzing the frequency of words in a script would be to print each word, then put each word in a dictionary with a single value, then count their frequency.
+- Discussing solutions in terms of "how do we build a collection which has the properties we want" can be a new perspective which helps students.
+- Telling students to take a step back and not try to solve it all at once is a good reminder that is often forgotten, especially in the beginning half of labs.
+
 ## Contributions
 
 Contributions to fix typos, clarify text, or otherwise improve the text are welcome. Please submit a PR and it will be reviewed and potentially merged into the repository. For modifications to the lab objectives, please fork the repository and open up a PR linking to your derivative works in the section below in the README.
